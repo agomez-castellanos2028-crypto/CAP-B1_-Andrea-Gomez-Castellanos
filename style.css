@@ -52,7 +52,7 @@ p {
   font-size: 17
 }
 iframe{
-  display:block
+  display:block;
   margin: 20px auto;
 }
 img{
